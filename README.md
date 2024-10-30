@@ -22,3 +22,4 @@ To get started with the Pizza Place Sales Dashboard, follow these steps:
 
 1. **Clone the repository:**
    ```bash
+   https://github.com/Manmohan-Choudhary/Pizza_Store_Sales_Dashboard.git
